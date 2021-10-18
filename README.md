@@ -1,70 +1,58 @@
-# Getting Started with Create React App
+# <p align="center"> Mental Help :massage_woman:</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Descrição ✏️
 
-## Available Scripts
+Projeto desenvolvido pelo Grupo 13 da terceira edição do bootcamp promovido pela EloGroup, forám realizadas pesquisas relacionadas ao tema do projeto, o projeto está sendo desenvolvido com as tecnologias JSX, CSS e React.
 
-In the project directory, you can run:
 
-### `yarn start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Status: Não Concluido.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+Projeto ainda não concluido, devido ao tempo justo, não desenvolvemos o produto totalmente funcional, temos o frontend estático e muitas funcionalidades a serem implementadas no projeto. (Após a avaliação, nós do grupo vamos continuar o projeto afins de colher conhecimento para nós mesmos.)
 
-### `yarn test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `yarn build`
+## Pré-requisitos 🖊️
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- Antes de realizar a visualização da página, será necessário ter instalado em sua máquina as ferramentas Git, React e o Node.js.
+- Para visualização do código, é necessário um editor código como <a href="https://code.visualstudio.com/">VSCode</a>.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `yarn eject`
+## Executar o projeto :computer:
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+- Clone o repositório: <br>
+  
+  $ git clone <https://github.com/guilhermesouza11/MentalHelp.git>
+  
+- Acesse a pasta do projeto através do cmd ou algum terminal para executar o projeto por linha de comando.
+  de sua preferencia, utilize o executavel que desejar, <npm start> ou <yarn start>.
+  
+  
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Integrantes/Colaboradores :woman_technologist::man_technologist: <br>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+Somos um grupo criado aleatoriamente através do EloGroup que nos proporcionou esse momento de muita dedicação e aprendizagem, nos tornamos não só colegas de equipe, nos tornamos verdadeiros amigos com o intuito de somar no que gostamos de fazer, para fortificar o desenvolvimento não apenas profissional, porém desenvolvimento pessoal de cada um de nós.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+Gabriela Ferreira, realizadora das pesquisas e conteúdo.
 
-## Learn More
+Ana Carolina, desenvolvendo o front-end. 
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Guilherme Souza, desenvolvendo o front-end. 
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Augusto Moura, desenvolvendo o back-end.
 
-### Code Splitting
+Erica Santos, designer do time.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
+### Contato com Autores/Desenvolvedores :mailbox:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Feito com ❤️ por Ana Carolina, Augusto, Erica Gabriela Ferreira e Guilherme Souza, entre em contato! 👋🏽
 
-### Making a Progressive Web App
+ [![Linkedin Badge](https://img.shields.io/badge/Guilherme-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/guilhermesouzadossantos/)](https://www.linkedin.com/in/guilhermesouzadossantos/) [![Linkedin Badge](https://img.shields.io/badge/Ana Carolina-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/anacrln/)](https://www.linkedin.com/in/anacrln/) [![Linkedin Badge](https://img.shields.io/badge/Augusto Moura-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/augusto-moura-5072b5181/)](https://www.linkedin.com/in/augusto-moura-5072b5181/)  [![Linkedin Badge](https://img.shields.io/badge/Erica Santos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/erica-santoss/)](https://www.linkedin.com/in/erica-santoss/) [![Linkedin Badge](https://img.shields.io/badge/Gabriela Ferreira-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/erica-santoss/)](https://www.linkedin.com/in/erica-santoss/)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<p align='center'>Agradecimento especial a EloGroup, por ter nos dado essa oportunidade de aprender e apresentar algo autentico nosso! :star2:</p>
