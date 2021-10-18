@@ -28,12 +28,12 @@ Projeto ainda não concluído, devido ao tempo, não desenvolvemos o produto tot
 - Acesse a pasta do projeto através do cmd ou algum terminal para executar o projeto por linha de comando.
   de sua preferência, utilize o executável que desejar, <npm start> ou <yarn start>.
   
-  -Opcional: Na hora do login cadastramos o usuário admin@admin.com(no email) e a senha admin123.
+- Opcional: Na hora do login cadastramos o usuário admin@admin.com(no email) e a senha admin123.
   A página de login nãp está completa,mas estamos trabalhando nisso.
   
  ## Site 💻
-  Desenvolvemos um site simples,apenas usando HTML e CSS.No futuro pretendemos ficar só com o do React.
-   https://mentalhelpoficial.netlify.app/
+- Desenvolvemos um site simples,apenas usando HTML e CSS.No futuro pretendemos ficar só com o do React.
+  <a href="https://mentalhelpoficial.netlify.app/" target="_blank"></a>
   
   
 
