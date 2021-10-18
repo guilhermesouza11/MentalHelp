@@ -32,7 +32,7 @@ Projeto ainda não concluido, devido ao tempo justo, não desenvolvemos o produt
 
 ## Integrantes/Colaboradores :woman_technologist::man_technologist: <br>
 
-Somos um grupo criado aleatoriamente através do EloGroup que nos proporcionou esse momento de muita dedicação e aprendizagem, nos tornamos não só colegas de equipe, nos tornamos verdadeiros amigos com o intuito de somar no que gostamos de fazer, para fortificar o desenvolvimento não apenas profissional, porém desenvolvimento pessoal de cada um de nós.
+Somos um grupo criado aleatoriamente através do EloGroup que nos proporcionou esse momento de muita dedicação e aprendizagem, nos tornamos não só colegas de equipe, nos tornamos verdadeiros amigos com o intuito de somar no que gostamos de fazer, para fortificar o desenvolvimento não apenas profissional, como também desenvolvimento pessoal de cada um de nós.
 
 Gabriela Ferreira, realizadora das pesquisas e conteúdo.
 
