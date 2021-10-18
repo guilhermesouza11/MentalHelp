@@ -29,7 +29,7 @@ Projeto ainda não concluído, devido ao tempo, não desenvolvemos o produto tot
   de sua preferência, utilize o executável que desejar, <npm start> ou <yarn start>.
   
 - Opcional: Na hora do login cadastramos o usuário admin@admin.com(no email) e a senha admin123.
-  A página de login nãp está completa,mas estamos trabalhando nisso.
+  A página de login não está completa,mas estamos trabalhando nisso.
   
  ## Site 💻
 - Desenvolvemos um site simples,apenas usando HTML e CSS.No futuro pretendemos ficar só com o do React.
