@@ -33,7 +33,7 @@ Projeto ainda não concluído, devido ao tempo, não desenvolvemos o produto tot
   
  ## Site 💻
 - Desenvolvemos um site simples,apenas usando HTML e CSS.No futuro pretendemos ficar só com o do React.
-  <a href="https://mentalhelpoficial.netlify.app/" target="_blank"></a>
+  https://mentalhelpoficial.netlify.app/
   
   
 
