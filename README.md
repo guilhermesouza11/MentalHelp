@@ -47,7 +47,7 @@ Erica Santos, designer do time.
 
 ### Contato com Autores/Desenvolvedores :mailbox:
 
-Feito com ❤️ por Ana Carolina, Augusto, Erica Gabriela Ferreira e Guilherme Souza, entre em contato! 👋🏽
+Feito com ❤️ por Ana Carolina, Augusto Moura, Erica Gabriela Ferreira e Guilherme Souza, entre em contato! 👋🏽
 
  [![Linkedin Badge](https://img.shields.io/badge/Guilherme-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/guilhermesouzadossantos/)](https://www.linkedin.com/in/guilhermesouzadossantos/)  [![Linkedin Badge](https://img.shields.io/badge/AnaCarolina-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/anacrln/)](https://www.linkedin.com/in/anacrln/)  [![Linkedin Badge](https://img.shields.io/badge/AugustoMoura-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/augusto-moura-5072b5181/)](https://www.linkedin.com/in/augusto-moura-5072b5181/)  [![Linkedin Badge](https://img.shields.io/badge/EricaSantos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/erica-santoss/)](https://www.linkedin.com/in/erica-santoss/)  [![Linkedin Badge](https://img.shields.io/badge/GabrielaFerreira-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/erica-santoss/)](https://www.linkedin.com/in/erica-santoss/)
 
