@@ -1,0 +1,88 @@
+div img{
+  display: block;
+  width: 100%;
+}
+
+.tamanho-img{
+  max-width: 400px;
+}
+
+#paginaInicio{
+  height: 100vh;
+  justify-content: space-between;
+}
+
+.container-inicio{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  /* text-align: center; */
+  width: 430px;
+  justify-content: space-between;
+}
+
+.texto-inicio{
+  margin: 40px 0px;
+}
+
+.btns-inicio{
+  display: flex;
+  flex-direction: row;
+}
+
+.btn-cadastro{
+  background-color: #fff;
+  border: 2px #9FC8AA solid;
+  border-radius: 60px;
+  padding: 7px 40px;
+  color: #9FC8AA;
+  font-size: 17px;
+  cursor: pointer;
+  width: 230px;
+}
+
+.btn-diarios{
+  background-color: #77B588;
+  border: 2px #9FC8AA solid;
+  border-radius: 60px;
+  padding: 7px 40px;
+  color: #fff;
+  font-size: 17px;
+  cursor: pointer;
+  width: 230px;
+  margin-left: 20px;
+  transition: 0.3s;
+}
+
+.btn-diarios:hover{
+  background-color: #9FC8AA;
+}
+
+/* ---------------------------------- Mobile------------------------------- */
+
+@media (max-width: 1000px){
+
+  .flex-container{
+    flex-direction: column-reverse;
+    display: flex;
+    width: auto;
+  }
+
+  #paginaInicio{
+    height: 100vh;
+    justify-content: center;
+    text-align: center;
+  }
+
+  .btn-diarios{
+    margin-left: 0px !important;
+  }
+
+  .tamanho-img{
+     max-width: 250px;
+  }
+
+  .tamanho-img{
+    min-width: 270px;
+  }
+} 

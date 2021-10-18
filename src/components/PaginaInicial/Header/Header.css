@@ -1,0 +1,119 @@
+@import url('https://fonts.googleapis.com/css2?family=Signika&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+}
+
+a{
+  color: #000;
+  text-decoration: none;
+  transition: 0.3s;
+}
+
+a:hover{
+  opacity: 0.7;
+}
+
+.logo{
+  font-size: 24px;
+}
+
+.logo-img{
+  display: flex;
+  align-items: center;
+  width: 65px;
+  margin-right: 20px;
+}
+
+nav{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  font-family: 'Signika', sans-serif;
+  font-size: 17px;
+  height: 10vh;
+  border-bottom: 1px solid #DE6A5A;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 90px;
+  background-color: #fff;
+}
+
+.nav-list{
+  list-style: none;
+  display: flex;
+  align-items: center;
+}
+
+.nav-list li{
+  margin-left: 32px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.nav-list li:hover{
+  opacity: 0.7;
+}
+
+.nav-list button{
+  padding: 7px 40px;
+  border: none;
+  border-radius: 60px;
+  color: #fff;
+  background-color: #DE6A5A;
+  cursor: pointer;
+  font-family: 'Signika', sans-serif;
+  font-size: 17px;
+  transition: 0.3s;
+}
+
+.nav-list button:hover{
+  background-color: #EC9287;
+}
+
+.mobile-menu{
+  display: none;
+  cursor: pointer;
+}
+
+.mobile-menu div{
+  width: 32px;
+  height: 2px;
+  background-color: #DE6A5A;
+  margin: 8px;
+}
+
+@media (max-width: 999px){
+  body{
+    overflow-x: hidden;
+  }
+
+  .nav-list{
+    position: absolute;
+    top: 10vh;
+    right: 0;
+    width: 50vw;
+    height: 92vh;
+    background-color: #DE6A5A;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    transform: translateX(100%);
+  }
+
+  .nav-list li{
+    margin-left: 0;
+    opacity: 0;
+  }
+
+  .mobile-menu{
+    display: block;
+  }
+
+  .nav-list.active{
+    transform: translateX(0);
+  }
+}

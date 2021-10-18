@@ -1,0 +1,28 @@
+/* .flex-container{
+  display: flex;
+  max-width: 1000px;
+  width: 100%;
+  margin: auto;
+} */
+
+/* #paginaInicial3{
+  justify-content: space-between;
+  align-items: center;
+  padding: 120px 0;
+  height: 100vh;
+} */
+
+/* .apresentacao{
+  height: 100vh;
+  align-items: center;
+  justify-content: space-between;
+} */
+
+.texto-historia{
+  max-width: 500px;
+}
+
+.texto-historia p{
+
+  margin-top: 30px;
+}

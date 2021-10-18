@@ -1,0 +1,38 @@
+.background{
+  background-color: #C4DECB;
+}
+
+#componenteObjetivo{
+  flex-direction: row-reverse;
+  align-items: center;
+  justify-content: space-between;
+  padding: 120px 0;
+}
+
+.container-objetivo{
+  max-width: 500px;
+}
+
+@media (max-width: 1000px){
+
+  #componenteObjetivo{
+    flex-direction: column-reverse;
+    align-items: center;
+    justify-content: space-between;
+    padding: 120px 0;
+  }
+
+  .flex-container{
+    flex-direction: column-reverse;
+  }
+
+  .tamanho-img{
+     max-width: 250px;
+  }
+
+  .container-objetivo{
+    margin-top: 50px;
+    max-width: 500px;
+  }
+
+} 

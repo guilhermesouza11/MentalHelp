@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400&display=swap');
+
+.box-p {
+  display: flex;
+  max-width: 1000px;
+  width: 100%;
+  height: 100%;
+  margin: auto;
+  flex-wrap:wrap;
+}
+.card-p {
+  padding: 15px;
+  width: 21rem;
+  height: 24rem;
+  background-color: #ffc8c7;
+  margin:30px;
+  margin-right: 74px;
+  margin-left: 60px;
+  border-top-right-radius: 15px;
+  border-bottom-right-radius: 15px;
+  border-bottom-left-radius: 15px; 
+}
+
+.card-p:hover{
+ box-shadow: 7px 6px 22px -7px rgba(0,0,0,0.6);
+}
+
+
+.card-title{
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  font-size: 28px;
+  text-align: center;
+  color:#000000B2;
+
+}
+
+.list-p{
+  padding-left: 15px;
+}
+
+.elem-list{
+  padding: 10px;
+  font-size: 14px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+}
+
+.logo-app-tips {
+  width: 150px;
+  position: center;
+  cursor: pointer;
+}
+
+
+.logos-apps{
+  text-align: center;
+  margin: 0;
+}
+
+.calend{
+  width: 300px;
+  cursor:pointer;
+}
+
+.calendar {
+  margin-left: 20px;
+}
+
+.check {
+  list-style-type:none;
+  font-size: 14px;
+  font-family: 'Roboto', sans-serif;
+  margin: 10px;
+  text-decoration: line-through;
+  padding: 10px;
+  font-weight: 400;
+  cursor: pointer;
+}
+
+.check-1{
+  list-style-type:none;
+  font-size: 14px;
+  font-family: 'Roboto', sans-serif;
+  margin: 10px;
+  padding: 10px;
+  font-weight: 400;
+  cursor: pointer;
+}
