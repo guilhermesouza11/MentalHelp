@@ -2,13 +2,13 @@
 
 ## Descrição ✏️
 
-Projeto desenvolvido pelo Grupo 13 da terceira edição do bootcamp promovido pela EloGroup, forám realizadas pesquisas relacionadas ao tema do projeto, o projeto está sendo desenvolvido com as tecnologias JSX, CSS e React.
+Projeto desenvolvido pelo Grupo 13 da terceira edição do bootcamp promovido pela EloGroup, foram realizadas pesquisas relacionadas ao tema do projeto, o projeto está sendo desenvolvido com as tecnologias JSX, CSS e React.
 
 
 
 ## Status: Não Concluido.
 
-Projeto ainda não concluido, devido ao tempo justo, não desenvolvemos o produto totalmente funcional, temos o frontend estático e muitas funcionalidades a serem implementadas no projeto. (Após a avaliação, nós do grupo vamos continuar o projeto afins de colher conhecimento para nós mesmos.)
+Projeto ainda não concluido, devido ao tempo justo, não desenvolvemos o produto totalmente funcional, temos o frontend estático e muitas funcionalidades a serem implementadas no projeto. (Após a avaliação, nós do grupo vamos continuar o projeto a fim de colher conhecimento para nós mesmos.)
 
 
 
