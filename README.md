@@ -31,9 +31,11 @@ Projeto ainda não concluído, devido ao tempo, não desenvolvemos o produto tot
 - Opcional: Na hora do login cadastramos o usuário admin@admin.com(no email) e a senha admin123.
   A página de login não está completa,mas estamos trabalhando nisso.
   
+  
  ## Site 💻
 - Desenvolvemos um site simples,apenas usando HTML e CSS.No futuro pretendemos ficar só com o do React.
   https://mentalhelpoficial.netlify.app/
+ - Na página de dicas,o único card funcionando é o da Procrastinação
   
   
 
