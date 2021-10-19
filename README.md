@@ -8,7 +8,7 @@ Projeto desenvolvido pelo Grupo 13 da terceira edição do bootcamp promovido pe
 
 ## Status: Não Concluído.
 
-Projeto ainda não concluído, devido ao tempo, não desenvolvemos o produto totalmente funcional.Temos o frontend estático e muitas funcionalidades a serem implementadas no projeto. (Após a avaliação, nós do grupo vamos continuar o projeto a fim de colher conhecimento para nós mesmos.)
+Projeto ainda não concluído, devido ao tempo, não desenvolvemos o produto totalmente funcional. Temos o frontend estático e muitas funcionalidades a serem implementadas no projeto. (Após a avaliação, nós do grupo vamos continuar o projeto a fim de colher conhecimento).
 
 
 
@@ -26,17 +26,17 @@ Projeto ainda não concluído, devido ao tempo, não desenvolvemos o produto tot
   $ git clone <https://github.com/guilhermesouza11/MentalHelp.git>
   
 - Acesse a pasta do projeto através do cmd ou algum terminal para executar o projeto por linha de comando.
-  de sua preferência, utilize o executável que desejar, <npm start> ou <yarn start>.
+  de sua preferência, utilize o executável que desejar, "npm start" ou "yarn start".
   
-- Opcional: Na hora do login cadastramos o usuário admin@admin.com(no email) e a senha admin123.
+- Opcional: Na hora do login cadastramos o usuário admin@admin.com (no email) e a senha admin123.
   A página de login não está completa,mas estamos trabalhando nisso.
   
   
  ## Site 💻
-- Desenvolvemos um site simples,apenas usando HTML e CSS.No futuro pretendemos ficar só com o do React.
+- Desenvolvemos um site simples, apenas usando HTML e CSS. No futuro pretendemos ficar só com o do React.
   https://mentalhelpoficial.netlify.app/
  - Na página de dicas,o único card funcionando é o da Procrastinação
-  
+
   
 
 ## Integrantes/Colaboradores :woman_technologist::man_technologist: <br>
@@ -65,3 +65,4 @@ Feito com ❤️ por Ana Carolina, Augusto Moura, Erica Santos, Gabriela Ferreir
 
 
 <p align='center'>Agradecimento especial a EloGroup, por ter nos dado essa oportunidade de aprender e apresentar algo autentico nosso! :star2:</p>
+
