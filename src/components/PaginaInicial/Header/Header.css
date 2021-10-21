@@ -116,4 +116,8 @@ nav{
   .nav-list.active{
     transform: translateX(0);
   }
+
+  .logo{
+    display: none;
+  }
 }

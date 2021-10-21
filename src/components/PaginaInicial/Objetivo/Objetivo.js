@@ -9,7 +9,7 @@ function Paginainicial2 (){
       <div className="background">
         <div className="flex-container" id="componenteObjetivo">
           <div className="container-objetivo">
-            <h1>Por mais difícil que seja o caminho você não está sozinho.</h1>
+            <h1 className="titulo-objetivo">Por mais difícil que seja o caminho você não está sozinho.</h1>
             <p>Nosso objetivo é criar uma rede de apoio para te auxiliar a cuidar de si mesmo. Escreva sobre sua jornada e acompanhe seu crescimento pessoal.</p>
           </div>
           <div>

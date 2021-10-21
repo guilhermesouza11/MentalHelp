@@ -16,7 +16,6 @@ div img{
   display: flex;
   flex-direction: column;
   align-items: center;
-  /* text-align: center; */
   width: 430px;
   justify-content: space-between;
 }
@@ -68,21 +67,36 @@ div img{
     width: auto;
   }
 
+  .container-inicio{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 430px;
+    justify-content: space-between;
+  }
+
   #paginaInicio{
+    padding-top: 100px;
     height: 100vh;
     justify-content: center;
-    text-align: center;
+    /* text-align: center; */
   }
 
   .btn-diarios{
     margin-left: 0px !important;
+    margin-top: 10px;
+  }
+
+  .btns-inicio{
+    display: flex;
+    flex-direction: column;
+  }
+
+  .container-inicio{
+    width: 0px !important;
   }
 
   .tamanho-img{
-     max-width: 250px;
-  }
-
-  .tamanho-img{
-    min-width: 270px;
-  }
+    max-width: 250px;
+ }
 } 
