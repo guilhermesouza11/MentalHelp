@@ -1,5 +1,5 @@
 # <p align="center"> Mental Help :massage_woman:</p>
-Ranking: 3º 🥉 
+<small align="center"> Ranking: 3º 🥉</p> 
 
 ## Descrição ✏️
 
